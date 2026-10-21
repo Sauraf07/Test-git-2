@@ -1,5 +1,2 @@
-def greet():    
-    print("Hello, Git!")
-    
-greet()
-
+def register():    
+    print("Registration feature added")
